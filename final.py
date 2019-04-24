@@ -175,6 +175,24 @@ GAME_OPTIONS = [
                     },
                 ]
             },
+            {
+                'value': 'Which organ is the most vital part of the nervous system?',
+                'image_path': 'pictures/brain.jpg',
+                'answers': [
+                    {
+                        'value': 'lungs',
+                        'is_correct': False,
+                    },
+                    {
+                        'value': 'brain',
+                        'is_correct': False,
+                    },
+                    {
+                        'value': 'intestines',
+                        'is_correct': True,
+                    },
+                ]
+            },
         ]
     },
     {
