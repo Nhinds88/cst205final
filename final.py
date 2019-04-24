@@ -185,11 +185,11 @@ GAME_OPTIONS = [
                     },
                     {
                         'value': 'brain',
-                        'is_correct': False,
+                        'is_correct': True,
                     },
                     {
                         'value': 'intestines',
-                        'is_correct': True,
+                        'is_correct': False,
                     },
                 ]
             },
